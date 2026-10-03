@@ -9,5 +9,10 @@
   <li>Inventory hardware and software </li>
 </ul>
 
+<br>
+
 
 <img width="1918" height="1019" alt="image" src="https://github.com/user-attachments/assets/ce461d05-7297-4155-98e0-64a6a00e9ed8" />
+
+<br>
+
